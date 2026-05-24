@@ -1,5 +1,5 @@
 # LLM Agent in the ITER Assembly Building
-### Humanoid Internship Challenge — Software Engineering
+Humanoid
 
 An LLM-powered robot agent that navigates a 2D world derived from a real Gaussian Splat reconstruction of the ITER nuclear fusion facility, reasoning about moving breeder blanket panels from storage to reactor ports.
 
