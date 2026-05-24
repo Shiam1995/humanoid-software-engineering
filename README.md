@@ -3,6 +3,7 @@ Humanoid
 
 An LLM-powered robot agent that navigates a 2D world derived from a real Gaussian Splat reconstruction of the ITER nuclear fusion facility, reasoning about moving breeder blanket panels from storage to reactor ports.
 
+a youtube video walkthrough https://youtu.be/wLLBk8F-euU
 ## What it does
 
 A robot operates inside a 2D occupancy map automatically extracted from the ITER Gaussian Splat point cloud. The circular map shape is the actual geometry of the ITER tokamak assembly hall — never drawn manually, it emerged from the real building captured on video.
